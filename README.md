@@ -3,6 +3,10 @@ TimelineJS3
 
 TimelineJS v3: A Storytelling Timeline built in JavaScript.  https://timeline.knightlab.com
 
+## Documentation
+
+https://www.jqueryscript.net/time-clock/Timeline-Generator-jQuery-Timeline-js.html
+
 ## Overview
 
 TimelineJS 3 is a rewrite of the popular Timeline JS software. Please be clear that this is software which "does" the same thing, but it isn't the same software, so some details will vary. See https://timeline.knightlab.com for more information.
